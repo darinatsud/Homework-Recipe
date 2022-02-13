@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+body {
+    background-color: antiquewhite;
+}
+
+.heading {
+    text-align: center;
+}
+
+.Recipe-heading {
+    font-family: 'Amatic SC', cursive;
+    font-size: 3rem;
+    color: maroon
+}
+
+.image {
+    text-align: center;
+}
+
+.Cooking-heading {
+    font-size: 1.5rem;
+    color: coral;
+    font-family: 'Passion One', cursive;
+}
+
+.p-heading {
+color: maroon
+}
+
+.Ingredients-heading {
+    color: coral;
+    font-family: 'Passion One', cursive;
+}
+
+.ul-heading {
+    color: maroon;
+}
+
+.Method-heading {
+    color: coral;
+    font-family: 'Passion One', cursive;
+}
+
+.ol-heading {
+    color: maroon;
+}
+
+.footer {
+    color: maroon;
+    text-align: center;
+    font-family: 'Passion One', cursive;
+}
